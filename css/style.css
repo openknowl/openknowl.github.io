@@ -404,7 +404,7 @@ body {
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin: .5rem 0 1.5rem;
-  font-family: "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif; }
+  font-family: "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana,Arial, "Malgun Gothic", Dotum, "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif; }
 
 h1, .h1 {
   font-size: 2em;
@@ -494,7 +494,7 @@ BUTTON DEFAULTS
   background-color: seagreen;
   display: inline-block;
   position: relative;
-  font-family: "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana,Arial, "Malgun Gothic", Dotum, "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
   text-decoration: none;
   color: #fff;
   font-size: 1em;
@@ -678,7 +678,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  font-family: "Noto Sans KR", "PT Serif", Georgia, Times, serif;
+  font-family: "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana,Arial, "Malgun Gothic", Dotum, "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
   line-height: 1.75;
   font-size: 112.5%;
   color: #111;
@@ -818,7 +818,7 @@ HEADER STYLING
     padding-left: 2rem;
     font-size: 1em;
     line-height: 3em;
-    font-family: "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana,Arial, "Malgun Gothic", Dotum, "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 800;
     text-transform: uppercase; }
     .header h1 a {
@@ -861,7 +861,7 @@ POST STYLING
 .post .meta {
   text-align: center;
   color: gray;
-  font-family: "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana,Arial, "Malgun Gothic", Dotum, "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
   font-weight: 300; }
 
 .post figure {
@@ -905,7 +905,7 @@ POST NAV STYLING
     height: 5rem;
     overflow: hidden;
     position: relative;
-    font-family: "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana,Arial, "Malgun Gothic", Dotum, "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 800;
     font-size: .9em;
     text-transform: uppercase;
@@ -1007,7 +1007,7 @@ POST LIST STYLING
       text-decoration: underline; }
   .posts li .date {
     color: gray;
-    font-family: "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Apple SD Gothic Neo", "Nanum Barun Gothic", "Nanum Gothic", Verdana,Arial, "Malgun Gothic", Dotum, "Noto Sans KR", "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: .8em; }
   .posts li h3 {
